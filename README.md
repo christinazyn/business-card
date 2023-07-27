@@ -1,4 +1,4 @@
-# Business Card
+# My Business Card
 This project uses HTML and CSS to design my own business card.
 
 ## Publish Site
